@@ -72,6 +72,9 @@ Here are some ideas to get you started:
 ![saramnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramnim&show_icons=true&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=saramnim)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
+
+---
+
 ### 🌌 other site 🌌
 ![Notion](https://img.shields.io/badge/notion-444444?style=flat&logo=notion)
  https://www.notion.so/4bfe551bc9db4568905c0b92e132b0ff<br>
