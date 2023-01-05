@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=saramnim&fontSize=90)
 <div align="center">
-
+ 
+<img width="20%" src="https://user-images.githubusercontent.com/112938316/210778718-fee5d323-64e0-40d2-bf9c-fef8106193d6.jpg"/>
+ <img width="20%" src="https://user-images.githubusercontent.com/112938316/210779097-9af80129-bc5e-4d4d-949f-85f0d70b9789.jpg"/>
+  <img width="26.6%" src="https://user-images.githubusercontent.com/112938316/210779938-4ca79120-78e7-49d9-8d21-91d5b190e5a1.jpg"/>
+ 
 ## ✨ introduction ✨
 
 열심히 배워가는 꼬마 개발자입니다<br>
