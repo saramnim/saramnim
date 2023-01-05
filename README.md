@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## ✨ introduction ✨
 
-열심히 배워가는 꼬마 개발자입니다
+열심히 배워가는 꼬마 개발자입니다<br>
 
 ### 🌞 Tech Stacks 🌞
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)<br>
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)<br>
 
 ### 🌙 Cowork tools 🌙
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -49,23 +49,23 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Gather](https://img.shields.io/badge/Gather-444444?style=flat&logo=Gather&logoColor=white)
-
+<br>
 ### 🎁 skill 🎁
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramnim&langs_count=8)](https://github.com/saramnim/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramnim&layout=compact)](https://github.com/saramnim/github-readme-stats)
-
+<br>
 ### 🌱 studying 🌱
 
 고려대학교 세종캠퍼스 2017.03 ~ 2022.02<br>
-엘리스 sw 부트캠프 3기 2022.09 ~ 2022.12
-
+엘리스 sw 부트캠프 3기 2022.09 ~ 2022.12<br>
+<!--
 ### 💪 Problem Solving 💪
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=saramnim)](https://solved.ac/saramnim)<br/>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhj239)](https://solved.ac/kimhj239)<br/>
+-->
 ### 🔥 Github Status
 ![saramnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramnim&show_icons=true&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=saramnim)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br>
 ### 🌌 other site 🌌
 ![Notion](https://img.shields.io/badge/notion-444444?style=flat&logo=notion)
  https://www.notion.so/4bfe551bc9db4568905c0b92e132b0ff<br>
