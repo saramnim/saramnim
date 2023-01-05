@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-444444?style=flat&logo=matlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)<br>
+ ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+ ![raspberrypi](https://img.shields.io/badge/Raspberrypi-A22846?style=flat&logo=Raspberrypi&logoColor=white)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
