@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ![Velog](https://img.shields.io/badge/velog-444444?style=flat&logo=velog)
  https://velog.io/@saramnim
  
- ![](./profile-3d-contrib/profile-green-animate.svg)
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
 </div>
 
